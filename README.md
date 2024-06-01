@@ -1,9 +1,10 @@
 # TotoroBoardGame-GUIJFrame
 
-### ⭐ Project Name : Totoro Position-Switch Puzzle Board Game
-### ⌛ Related Class : High School AP Programming
+#### ⭐ Project Name : Totoro Position-Switch Puzzle Board Game
+#### ⌛ Related Class : High School AP Programming
+#### 🔑 Keywords : GUI, JFrame, KeyListener, JPanel, Arraylist
 ##### Description : A mini game where the player wins if they succeed in making all numbers that are initially positioned randomly to be in ascending order, with the Totoro at the bottom right corner spot. Player can move the Totoro character in 4 directions (up, down, left, right), and each movement will result in a swap with the particular number. 
-##### Keywords : GUI, JFrame, KeyListener, JPanel, Arraylist. 
+
 
 ##### Here's an example of how moving Totoro UP by 1 tile changes the look of the board game : 
 
