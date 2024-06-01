@@ -1,4 +1,4 @@
-# TotoroBoardGame
+# TotoroBoardGame-GUIJFrame
 
 ### ⭐ Project Name : Totoro Position-Switch Puzzle Board Game
 ### ⌛ Related Class : High School AP Programming
