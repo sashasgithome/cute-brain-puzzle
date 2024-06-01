@@ -9,7 +9,7 @@
 
 ![image](https://github.com/fatdumplingg/TotoroBoardGame/assets/115481549/4cae5cbc-2d08-4221-8233-fd668d2dba9a)
 
-#####And this is what the final completed board should look like! 
+##### And this is what the final completed board should look like! 
 
 ![image](https://github.com/fatdumplingg/TotoroBoardGame/assets/115481549/16a90146-08f4-4374-8237-5cc00e28ffe9)
 
