@@ -1,4 +1,4 @@
-# TotoroBoardGame-GUIJFrame
+# Totoro Board Game with GUI and JFrame
 
 #### ⭐ Project Name : Totoro Position-Switch Puzzle Board Game
 #### ⌛ Related Class : High School AP Programming
