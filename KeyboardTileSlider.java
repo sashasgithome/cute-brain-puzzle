@@ -1,5 +1,5 @@
 //Class   : AP Programming II
-//Name    : Sasha Annabel
+//Name    : Sasha A.
 //Project : Keyboard Slider GUI Project
 //Details : GUI project where user clicks up/down/right/left
 //to move Totoro until numbers on the board are in order. 
